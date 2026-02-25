@@ -1,0 +1,10 @@
+# Mac system files
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+
+# Folder for sensitive info (good habit)
+secrets/
+
